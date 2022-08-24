@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "36Np/gy9/SnyqehQTD5kysD3tFKLzXC3Vh4exj0uUOXtlxBxcbkOX9mnEqOOkUVU71u73z99skPK1e+5pocQCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crate\\workspace\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crate\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
